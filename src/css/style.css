@@ -445,6 +445,11 @@ body {
   -ms-flex-negative: 0;
       flex-shrink: 0;
   margin-top: 10px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+  padding-left: 20px;
 }
 .main section .two-article .block-6 .footer-line .block-2 input::-webkit-input-placeholder {
   position: absolute;
